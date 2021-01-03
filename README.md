@@ -11,7 +11,7 @@ PIC18F4520 is a PIC microcontroller, introduced Microchip, and mainly used in au
 
 ![mplab](https://user-images.githubusercontent.com/55251741/103286736-e8261080-4a06-11eb-80fb-b3ee8a97d144.png)
 
-# For Output Window i used picimlab 
+# For Output Display i have used PicimLab 
 
 ![op for mca](https://user-images.githubusercontent.com/55251741/103436560-f1032600-4c42-11eb-9049-6f5cf528d882.PNG)
 
